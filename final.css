@@ -190,7 +190,7 @@ starter
   margin: 0;
   max-height: 200px;
   min-width: 100;
-  background-image: images/seaa.png;
+  background-image: url("images/seaa.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-color: var(--bg-deep-ocean);
@@ -342,7 +342,7 @@ background-color: var(--dark-blue);
     size-adjust: 50%;
     padding: 0;
     margin: 0;
-    background-image: images/SEA_floor.png;
+    background-image: url("images/SEA_floor.png");
     background-size: cover;
     background-repeat: no-repeat;
     background-color: var(--bg-deep-ocean);
