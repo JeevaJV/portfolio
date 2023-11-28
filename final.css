@@ -190,7 +190,7 @@ starter
   margin: 0;
   max-height: 200px;
   min-width: 100;
-  background-image: "images/seaa.png";
+  background: url("images/seaa.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-color: var(--bg-deep-ocean);
