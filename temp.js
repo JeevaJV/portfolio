@@ -2,7 +2,7 @@
 "https://cdnjs.cloudflare.com/ajax/libs/jquery.ripples/0.5.3/jquery.ripples.min.js">
         $(".full-landing-image").ripples({
             resolution: 512,
-            dropRadius: 20,
+            dropRadius: 10,
             interactive: true,
-            perturbance: 0.5,
+            perturbance: 0.1,
         });
