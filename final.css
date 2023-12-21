@@ -389,6 +389,7 @@ screens adjust
   .flips{
     display: grid;
     grid-template-columns: 100px 100px 100px 100px 100px 100px;
-    padding-left: 20%;
+    padding-left: 25%;
+    text-align: center;
   }
 }
